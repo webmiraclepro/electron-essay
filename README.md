@@ -29,10 +29,10 @@
 First, clone the repo via git and install dependencies:
 
 ```bash
-git clone --depth 1 --branch main https://github.com/electron-react-boilerplate/electron-react-boilerplate.git your-project-name
+git clone --depth 1 --branch main https://github.com/MidasDev913/essay.git your-project-name
 cd your-project-name
 npm install
-yarn
+or yarn
 ```
 
 ## Starting Development
@@ -41,6 +41,8 @@ Start the app in the `dev` environment:
 
 ```bash
 npm start
+or 
+yarn start
 ```
 
 ## Packaging for Production
